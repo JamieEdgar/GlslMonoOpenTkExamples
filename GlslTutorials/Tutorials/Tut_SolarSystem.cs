@@ -56,7 +56,7 @@ namespace GlslTutorials
 			AddPlanet("Mercury", "mercurymap.jpg", mercuryRadius, new Vector3(100f, 0f, startZdistance), 0.05f);
 			AddPlanet("Venus", "Venus_Magellan_C3-MDIR_ClrTopo_Global_Mosaic_1024.jpg", venusRadius, new Vector3(200f, 0f, startZdistance), -0.025f);
 			AddPlanet("Earth", "PathfinderMap.jpg", earthRadius, new Vector3(300f, 0f, startZdistance), 0.005f);
-			AddPlanet("Mars", "Mars_Viking_MDIM21_ClrMosaic_global_1024.jpg", marsRadius, new Vector3(400f, 0f, startZdistance), -0.025f);
+			AddPlanet("Mars", "Mars_MGS_colorhillshade_mola_1024.jpg", marsRadius, new Vector3(400f, 0f, startZdistance), -0.025f);
 			AddPlanet("Jupiter", "jup0vss1.jpg", jupiterRadius, new Vector3(500f, 0f, startZdistance), -0.025f);
 			AddPlanet("Saturn", "saturnmap.jpg", saturnRadius, new Vector3(600f, 0f, startZdistance), -0.005f);
 			AddPlanet("Uranus", "uranusmap.jpg", uranusRadius, new Vector3(700f, 0f, startZdistance), -0.025f);
