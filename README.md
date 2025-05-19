@@ -13,3 +13,7 @@ the form is pretty simple.
 
 I don't expect anyone will really be interested in this, I just filled this out in case someone finds this searching for 
 examples.
+
+May 2025 Update:
+I tried this today with Monodevelop on Fedora 41.  You have to create a new solution, but then the project can just be 
+dropped in and the tutorials still run.
