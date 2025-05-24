@@ -196,7 +196,7 @@ namespace GlslTutorials
 		public static string mercuryFileName = "mercurymap.jpg";
 		public static string venusFileName = "Venus_Magellan_C3-MDIR_ClrTopo_Global_Mosaic_1024.jpg";
 		public static string earthFileName = "PathfinderMap.jpg";
-		public static string marsFileName = "Mars_Viking_MDIM21_ClrMosaic_global_1024.jpg";
+		public static string marsFileName = "Mars_MGS_colorhillshade_mola_1024.jpg";
 		public static string jupiterFileName = "jup0vss1.jpg";
 		public static string saturnFileName = "saturnmap.jpg";
 		public static string uranusFileName = "uranusmap.jpg";
